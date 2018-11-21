@@ -26,3 +26,4 @@ if __name__ == '__main__':
         port=2000,
     )
     app.run(**config)
+    log("程序开始")
